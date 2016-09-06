@@ -35,6 +35,6 @@ spot.bark() // now returns => 'I changed via prototypal link'
 rover.bark() // now returns => 'I changed via prototypal link'
 
 
-// In this case, both spot and rover access to the bark and getLegs functions via prototype. 
+// In this case, both spot and rover have access to the bark and getLegs functions via prototype. 
 // Every time Dog is called, a new prototypal link to dogMethods will be created.
 // spot.bark === rover.bark => returns true.
