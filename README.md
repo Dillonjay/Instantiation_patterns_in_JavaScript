@@ -1,5 +1,5 @@
-# Instantiation_patterns_in_JavaScript
-A repository explaining the four different instantiation patterns in javascript. 
+# Instantiation patterns in JavaScript
+A repository explaining the four different instantiation patterns in Javascript. 
 * Functional
 * Functional-Shared
 * Prototypal
