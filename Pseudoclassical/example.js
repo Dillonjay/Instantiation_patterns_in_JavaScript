@@ -23,7 +23,7 @@ spot.bark() // => 'Spot says...BARK!!'
 var rover = new Dog('Rover');
 rover.bark() //=> 'Rover says...BARK!!'
 
-// Can change methods for dog by editing the Dog prototype.
+// Can change methods for Dog by editing the Dog prototype.
 // EX:
 Dog.prototype.bark = function() {
 	return 'I changed via prototypal link'

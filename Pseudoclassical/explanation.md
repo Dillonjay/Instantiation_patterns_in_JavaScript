@@ -13,7 +13,7 @@ This is what happens under the hood inside of the Dog constructor.
 	this = Object.create(Dog.prototype)
 	return this
 ```
-You creat a new instance of Dog using the key word 'new'
+You create a new instance of Dog using the key word 'new'
 Ex: 
 ```
 var myDog = new Dog('Spot');
