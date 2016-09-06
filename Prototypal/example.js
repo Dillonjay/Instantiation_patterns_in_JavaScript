@@ -1,6 +1,6 @@
 // Prototypal.
 
-// The dogMethods array with methods for dogs. 
+// The dogMethods object with methods for dogs. 
 var dogMethods = { 
 	bark: function() {
 		return this.name + ' says...BARK!!';
